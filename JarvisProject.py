@@ -44,7 +44,6 @@ def takeCommand():
     return query
 
 if __name__ == "__main__":
-    #  speak("Hi Sir, How are you?")
      wishMe()
      if 1:
         cmd =takeCommand().lower()
